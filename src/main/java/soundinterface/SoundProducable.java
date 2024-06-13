@@ -1,2 +1,5 @@
-package soundinterface;public interface SoundProducable {
+package soundinterface;
+
+public interface SoundProducable {
+    void makeNoise();
 }
